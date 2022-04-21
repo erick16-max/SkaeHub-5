@@ -3,8 +3,9 @@
 
 
 1. Adding and committing Files
-[Screenshot_1](https://user-images.githubusercontent.com/63343546/164467472-e0370c7a-df44-4ad0-9f3e-b679fc099bbe.png)
 
+
+![Screenshot_1](https://user-images.githubusercontent.com/63343546/164468735-469fb189-8c5f-4bf6-8416-d3ac51880a7f.png)
 
 
 
@@ -18,10 +19,11 @@
 
 
 2. Creating an SSH Key
-![Screenshot_2](https://user-images.githubusercontent.com/63343546/164467573-c3cc9224-b33b-497c-ba3e-d0fbfa2ec9c7.png)
 
 
 
+
+![Screenshot_2](https://user-images.githubusercontent.com/63343546/164468805-e3b59644-e8ce-4258-9e45-7ec7024486f1.png)
 
 
 
@@ -34,11 +36,12 @@
 
 
 3. Checkout and Reset
-![Screenshot_3](https://user-images.githubusercontent.com/63343546/164467578-5bed4066-ca55-4d85-bce3-13441c0ccde2.png)
 
 
 
 
+
+![Screenshot_3](https://user-images.githubusercontent.com/63343546/164468876-940b0ceb-6c48-402b-8648-a31d071e47c8.png)
 
 
 
